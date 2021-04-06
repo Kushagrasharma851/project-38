@@ -1,1 +1,2 @@
-# project-38
+# PROJECT-38
+Infinite Runner Game 1
